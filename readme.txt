@@ -1,4 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+FAVAAAA
+
 Code of the algorithm described in the paper "A Hybrid Shared-Memory Parallel Max-Tree Algorithm for Extreme Dynamic-Range Images" by Ugo Moschini, Arnold Meijster and Michael H.F. Wilkinson, University of Groningen, The Netherlands
 
 November 2015, Ugo Moschini (u.moschini@rug.nl , ugomoschini@gmail.com)
